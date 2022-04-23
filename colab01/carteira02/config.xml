@@ -1,0 +1,16 @@
+<config>
+  <!-- Slot Control -->
+  <power v='full'/>
+
+  <!-- User Information -->
+  <passkey v='18a87823c65eeb1f18a87823c65eeb1f'/>
+  <team v='234980'/>
+  <user v='xzo4lyev5ja2'/>
+
+  <!-- Folding Slots -->
+  
+   <slot id='1' type='GPU'>
+    <pci-bus v='0'/>
+    <pci-slot v='5'/>
+  </slot>
+</config>
